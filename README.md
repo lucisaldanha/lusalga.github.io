@@ -20,14 +20,15 @@ Create a website from Bootstrap 4 using a nice template.
  - Need to set up my own content first (avatar, projects, links), then move on for CSS styling. Get ideas from travelsite project(colors and font style).
  - Next, CSS and colors.
  - Next personalized Logo and Icon.
- - Set up new email for contact.
- - set up 404 not found page for Blog link.
+ - Set up new email for contact. Added but not work, shows 405 error message. 
+
 
 ### `Past steps`
 
  - Download template from https://startbootstrap.com/themes/freelancer/
  - Create repository.
  - Update README.md.
+ - set up 404 not found page for Blog link.
  
 
 
