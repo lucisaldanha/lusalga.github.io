@@ -19,6 +19,7 @@ Create a website from Bootstrap 4 using a nice template.
 
  - Need to set up my own content first (avatar, projects, links), then move on for CSS styling. Get ideas from travelsite project(colors and font style).
  - Next, CSS backgroun colors.
+ - Changed about content please.
  - Next personalized Logo and Icon.
  - Set up new email for contact. Added but not work, shows 405 error message. 
 
