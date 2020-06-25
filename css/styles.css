@@ -47,6 +47,13 @@
   box-sizing: border-box;
 }
 
+/* Luci's css modifications */
+
+.text-justify {
+  text-align: justify;
+}
+
+
 html {
   font-family: 'Playfair Display', serif; /* From Google Fonts*/
   line-height: 1.15;
