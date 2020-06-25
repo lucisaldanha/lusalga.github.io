@@ -47,7 +47,7 @@
   box-sizing: border-box;
 }
 
-/* Luci's css modifications */
+/* Luci's new class modifications */
 
 .text-justify {
   text-align: justify;
@@ -57,6 +57,11 @@
   color: #c59c71;
 }
 
+.buttonMenuColor {
+  color: #fff;
+}
+
+/* End of modifications */
 html {
   font-family: 'Playfair Display', serif; /* From Google Fonts*/
   line-height: 1.15;
@@ -6114,7 +6119,7 @@ a.close.disabled {
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #148f77 !important;
+  background-color: #c29f7a !important;
 }
 
 .bg-secondary {
