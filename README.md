@@ -16,17 +16,17 @@ Create a website from Bootstrap 4 using a nice template.
 
 
 ### `Next steps`
-
- - Need to set up my own content first (avatar, projects, links), then move on for CSS styling. Get ideas from travelsite project(colors and font style).
- - Next, CSS backgroun colors.
- - Changed about content please.
- - Implement on Click action information when clicking portfolio items on that section.
+ 
  - Next personalized Logo and Icon.
  - Set up new email for contact. Added but not work, shows 405 error message. 
 
 
 ### `Past steps`
 
+ - Need to set up my own content first (avatar, projects, links), then move on for CSS styling. Get ideas from travelsite project(colors and font style).
+ - Implement on Click action information when clicking portfolio items on that section. 
+ - Changed about content please.
+ - Next, CSS backgroun colors.
  - Added new font style to web page and updated Template section information.
  - Download template from https://startbootstrap.com/themes/freelancer/
  - Create repository.
