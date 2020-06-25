@@ -3,7 +3,7 @@
 
 Website started from Startbootstrap free templates (https://startbootstrap.com/themes/freelancer/).
 
-Under construction...
+Always improving...
 
 ### `Objective`
 
@@ -11,14 +11,15 @@ Create a website from Bootstrap 4 using a nice template.
 
 
 ### `State we are at`
- - Website runs on local host;
- - Raw template.
+ - Welcome to my portfolio website!
 
 
 ### `Next steps`
  
  - Next personalized Logo and Icon.
  - Set up new email for contact. Added but not work, shows 405 error message. 
+ - Add Resume page. Working on new branch.
+ - Fix 404 page, not working on mobile view.
 
 
 ### `Past steps`
