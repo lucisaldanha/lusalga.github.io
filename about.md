@@ -9,7 +9,6 @@ Systems.
 
 ## Version 2
 
-
 I am an Electrical Engineer and Self-Taught Web Developer in the process of joining Grad School. I enjoy
 learning more in the areas of Cybersecurity, Machine Learning, Artificial Intelligence, and Software
 Systems.
