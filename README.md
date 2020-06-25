@@ -7,7 +7,7 @@ Always improving...
 
 ### `Objective`
 
-Create a website from Bootstrap 4 using a nice template.
+Create a nice website using Bootstrap 4 that will be my portfolio website.
 
 
 ### `State we are at`
