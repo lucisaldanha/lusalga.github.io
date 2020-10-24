@@ -16,6 +16,7 @@ Create a nice website using Bootstrap 4 that will be my portfolio website.
 
 ### `Next steps`
  
+ - update grid covid page item: add picture or gif, modify information, portfolio modals
  - Update color patterns, buttons and others.
  - Next personalized Logo and Icon.
  - Set up new email for contact. Added but not work, shows 405 error message. 
