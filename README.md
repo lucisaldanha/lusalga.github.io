@@ -17,8 +17,6 @@ Create a nice website using Bootstrap 4 that will be my portfolio website.
 ### `Next steps`
  
  - Update color patterns, buttons and others.
- - Next personalized Logo and Icon.
- - Set up new email for contact. Added but not work, shows 405 error message. 
  - Add Resume page. Working on new branch.
  - Fix 404 page, not working on mobile view.
 
