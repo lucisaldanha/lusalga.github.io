@@ -6114,8 +6114,8 @@ a.close.disabled {
 
 .bg-primary {
   /* background-color: #ddbb97 !important; */
-  background-color: #ffd3ea;
-background-image: linear-gradient(315deg, #ffd3ea 0%, #403020 74%);
+  /* background-color: #ffd3ea; */
+background-image: linear-gradient(315deg, #ffd3ea80 0%, #40302000 74%);
 
 
 
