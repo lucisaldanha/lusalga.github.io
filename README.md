@@ -16,9 +16,9 @@ Create a nice website using Bootstrap 4 that will be my portfolio website.
 
 ### `Next steps`
  
- - update grid covid page item: add picture or gif, modify information, portfolio modals
- - Update color patterns, buttons and others.
- - Add Resume page. Working on new branch.
+ - add travel site project, thought process
+ - add ingredients app for the dog delivery service, where I am at
+ - fix format of about me section
  - Fix 404 page, not working on mobile view.
 
 
